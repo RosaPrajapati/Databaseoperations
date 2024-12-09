@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RosaDatabaseoperations
 {
-     
-        // Step 1: Define a custom exception by inheriting from Exception
-        public class InvalidAgeException : Exception
+
+    // Step 1: Define a custom exception by inheriting from Exception
+    public class InvalidAgeException : Exception
         {
             // Constructor to pass a custom message to the base Exception class
             public InvalidAgeException(string message) : base(message)

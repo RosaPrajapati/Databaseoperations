@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace EmployeeFilter
+namespace RosaDatabaseoperations
 {
     class Employee
     {
@@ -12,7 +12,7 @@ namespace EmployeeFilter
         public string Address { get; set; }
     }
 
-    class Program
+    class Program3
     {
         /*static void Main(string[] args)
         {
