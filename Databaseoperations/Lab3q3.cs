@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace RosaDatabaseoperations
 {
-    class Program1
+    class Program
     {
-       /* static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             string connectionString = "Server=localhost;Database=csharp;Uid=root;Pwd=;";
 
@@ -79,7 +79,7 @@ namespace RosaDatabaseoperations
             {
                 Console.WriteLine("Error: " + ex.Message);
             }
-        }*/
+        }
+    }*/
     }
 }
-

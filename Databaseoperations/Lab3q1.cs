@@ -18,7 +18,7 @@ namespace MulticastDelegateExample
             Console.WriteLine("Method Two is called.");
         }
 
-       /* static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             // Step 3: Create a multicast delegate instance
             Notify notify;
